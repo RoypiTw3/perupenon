@@ -35,7 +35,7 @@ Verificado en 1440, 1100 y 375 px de ancho, sin errores de consola.
 
 - Colores: crema `#F8F2E5`, negro `#03090D`, terracota `#C2644F`, verde salvia `#779580`, gris arena `#B8B2A6`, gris niebla `#C3C6BD`, piedra `#D3CFC5`. Están como variables al inicio de `css/style.css`.
 - Tipografía: Ballena usa Sweet Sans Pro y TT Commons Pro (de pago). Se sustituyeron por Google Fonts: **Archivo** ancha (`wdth 125`) para títulos en mayúsculas, **DM Sans** para texto, **Bodoni Moda** para el wordmark gigante del pie.
-- Componentes: header flotante centrado (botón "Pedir a domicilio" izquierda, logo centro, hamburguesa derecha) · menú que cae desde la barra, en crema, con foto abajo · preloader negro con la frase "Nos re-inventamos" (solo la primera vez por sesión) · hero con foto a sangre · bloque partido foto + panel terracota · imagen completa · intro sobre gris arena · tarjetas de platos con carrusel · testimonios · "about" con foto en blanco y negro · banda verde de contacto/horarios · footer gris con wordmark "PERÚ PEÑÓN".
+- Componentes: header flotante centrado (botón "Pedir a domicilio" izquierda, logo centro, hamburguesa derecha) · menú que cae desde la barra, en crema, con foto abajo · preloader negro con la frase "Auténtica cocina peruana. En el corazón del Peñón." (solo la primera vez por sesión) · hero con foto a sangre · bloque partido foto + panel terracota · imagen completa · intro sobre gris arena · tarjetas de platos con carrusel · testimonios · "about" con foto en blanco y negro · banda verde de contacto/horarios · footer gris con wordmark "PERÚ PEÑÓN".
 
 ## Datos del negocio (verificados en el sitio original)
 
